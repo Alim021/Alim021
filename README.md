@@ -75,11 +75,11 @@
 <p align="center">
   🤝 <b>Connect with me @Alim021</b><br><br>
 
-  <a href="mailto:alimshabbirsayyad@example.com" target="_blank">
+  <a href="mailto:sayyadalim0022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://linkedin.com/in/alim021" target="_blank">
+  <a href="https://linkedin.com/in/alim-sayyad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
