@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  🤝 <b>Connect with me</b><br><br>
+  🤝 <b>Connect with me @Alim021</b><br><br>
 
   <a href="mailto:alimshabbirsayyad@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
