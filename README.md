@@ -11,6 +11,15 @@
 
 ---
 
+## 📫 Connect with Me
+
+- 📧 Email: sayyadalim0022@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/alim-sayyad  
+- 🌐 Portfolio: https://sayyadalim.vercel.app/  
+- 📝 Resume: *Available on request*
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -52,19 +61,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=radical" alt="Alim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Alim's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: sayyadalim0022@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alim-sayyad  
-- 🌐 Portfolio: https://sayyadalim.vercel.app/  
-- 📝 Resume: *Available on request*
 
 ---
 
@@ -73,8 +75,6 @@
 - 🌍 Contribute to open-source projects  
 - ⚡ Build a real-time web application  
 - 🛠️ Build less, build better — focus on quality over quantity  
-
----
 
 ---
 
