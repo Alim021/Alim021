@@ -58,14 +58,21 @@
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Alim's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=radical" alt="Top Languages" />
+
+## 📊 Tech Stack
+
+| Skill         | Level |
+|---------------|-------|
+| 🔸 HTML        | ███████░░░░░░░░░░░░░ 30% |
+| 🔹 CSS         | █████████████░░░░░░░ 60% |
+| 🟨 JavaScript  | ██████████████░░░░░ 65% |
+| ⚛️ React.js    | ███████████████░░░░ 70% |
+| 🧭 Next.js     | █████████████░░░░░░ 60% |
+| 🟩 Node.js     | ███████████████░░░░ 70% |
+| 🐍 Python      | ███████████████░░░░ 70% |
+<!-- Table here -->
+
 </p>
 
 ---
