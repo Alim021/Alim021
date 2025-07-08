@@ -72,16 +72,29 @@
 
 ---
 
+---
+
 <p align="center">
-  🤝 <b>Connect with me @Alim021</b><br><br>
-  <a href="mailto:sayyadalim0022@gmail.com" target="_blank">
+  🤝 <b>Connect with me</b><br><br>
+
+  <a href="mailto:alimshabbirsayyad@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/alim-sayyad/" target="_blank">
+  
+  <a href="https://linkedin.com/in/alim021" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://github.com/Alim021" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://wa.me/919309599402" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <a href="[https://x.com/yourusername](https://x.com/SayyadAlim70934?t=YxAy4FQQkH0_zHwUIGFObg&s=09)" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
