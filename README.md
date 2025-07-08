@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,22 +58,13 @@
 
 ---
 
+## 📊 GitHub Dashboard
+
 <p align="center">
-
-## 📊 Tech Stack
-
-| Skill         | Level |
-|---------------|-------|
-| 🔸 HTML        | ███████░░░░░░░░░░░░░ 30% |
-| 🔹 CSS         | █████████████░░░░░░░ 60% |
-| 🟨 JavaScript  | ██████████████░░░░░ 65% |
-| ⚛️ React.js    | ███████████████░░░░ 70% |
-| 🧭 Next.js     | █████████████░░░░░░ 60% |
-| 🟩 Node.js     | ███████████████░░░░ 70% |
-| 🐍 Python      | ███████████████░░░░ 70% |
-<!-- Table here -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
 
 ---
 
