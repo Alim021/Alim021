@@ -6,7 +6,7 @@
 ## 💡 About Me
 🔹 I'm a Full-Stack developer who believes in building not just features, but meaningful solutions.  
 🔹 Coding is not just work for me — it’s an art where I leave my signature on every project.
-🔹 I enjoy working on both frontend and backend — turning ideas into scalable and functional web applications.  
+        🔹 I enjoy working on both frontend and backend — turning ideas into scalable and functional web applications.  
 🔹 My goal is to create intuitive, accessible, and efficient digital experiences.  
 
 
