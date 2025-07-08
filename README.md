@@ -65,6 +65,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=tokyonight" width="95%" />
+</p>
+
 
 ---
 
