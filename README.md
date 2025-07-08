@@ -62,9 +62,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Alim's GitHub Stats" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=radical" alt="GitHub Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
