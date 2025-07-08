@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alim Sayyad</h1>
-<h3 align="center">A Full-Stack Developer who loves solving real-world problems with clean and purposeful code.</h3>
+<h3 align="center">I’m a Full-Stack Developer who sees coding not just as work, but as an art — I leave my signature on every project.</h3>
 
 ---
 
