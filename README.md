@@ -4,10 +4,10 @@
 ---
 
 ## 💡 About Me
-🔹 I'm a developer who believes in building not just features, but meaningful solutions.  
+🔹 I'm a Full-Stack developer who believes in building not just features, but meaningful solutions.  
+🔹 Coding is not just work for me — it’s an art where I leave my signature on every project.
 🔹 I enjoy working on both frontend and backend — turning ideas into scalable and functional web applications.  
 🔹 My goal is to create intuitive, accessible, and efficient digital experiences.  
-🔹 I'm always learning, experimenting, and striving to grow as a developer.
 
 ---
 
@@ -68,30 +68,26 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- TypeScript  
-- Next.js  
-- RESTful API Best Practices  
-- Building scalable MERN applications  
-
----
-
 ## 🚀 Goals for 2025
 
-- 📌 Contribute to open-source projects  
-- 📌 Build a real-time web app  
-- 📌 Get an internship/full-time role as a Full-Stack Developer  
-- 📌 Launch my personal portfolio site  
+- 🌍 Contribute to open-source projects  
+- ⚡ Build a real-time web application  
+- 🛠️ Build less, build better — focus on quality over quantity  
 
 ---
 
-## 💬 Fun Fact
-
-> I write code like I play cricket — with focus, timing, and a little bit of flair 😉
-
 ---
 
-Thank you for visiting my profile!  
-Feel free to explore my repositories and connect with me if you'd like to collaborate.
+<p align="center">
+  🤝 <b>Connect with me @Alim021</b><br><br>
+  <a href="mailto:sayyadalim0022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alim-sayyad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Alim021" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
