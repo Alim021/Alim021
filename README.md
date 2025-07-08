@@ -9,14 +9,6 @@
 🔹 I enjoy working on both frontend and backend — turning ideas into scalable and functional web applications.  
 🔹 My goal is to create intuitive, accessible, and efficient digital experiences.  
 
----
-
-## 📫 Connect with Me
-
-- 📧 Email: sayyadalim0022@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alim-sayyad  
-- 🌐 Portfolio: https://sayyadalim.vercel.app/  
-- 📝 Resume: *Available on request*
 
 ---
 
