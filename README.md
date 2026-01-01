@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 
 - 🌍 Contribute to open-source projects  
 - ⚡ Build a real-time web application  
