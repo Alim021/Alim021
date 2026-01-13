@@ -55,12 +55,22 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=tokyonight" width="47%" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Alim021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alim021&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=tokyonight" width="95%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Alim021&theme=tokyonight&hide_border=true"
+    width="96%"
+  />
 </p>
 
 
